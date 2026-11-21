@@ -1,13 +1,13 @@
 # Student Performance Prediction with Machine Learning and Azure
 
-[![Open the live app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-prediction-sssdzsrk8c2eqnkbb4zceu.streamlit.app/)
+[![Open the live app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-prediction-new-project.streamlit.app/)
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B?logo=streamlit&logoColor=white)
 ![Azure Machine Learning](https://img.shields.io/badge/Azure-Machine%20Learning-0078D4?logo=microsoftazure&logoColor=white)
 
 A small educational project that estimates a student's **course Final mark** from assessment marks already available. The project includes a Streamlit app, regression-model training and evaluation, an Azure Machine Learning command-job configuration, and a public live demo.
 
-> **Live demo:** [Open the Engineering Grade Predictor](https://student-performance-prediction-sssdzsrk8c2eqnkbb4zceu.streamlit.app/)
+> **Live demo:** [Open the Engineering Grade Predictor](https://student-performance-prediction-new-project.streamlit.app/)
 
 This is a learning demonstration, not an official grading tool. It uses a small public dataset from one Chemical Engineering course at McMaster University. It has **one Midterm field**, labelled **Mid-Sem** in the app; it does not contain two mid-semester exams. The dataset is not evidence of accuracy for another course, college, or assessment scheme.
 
