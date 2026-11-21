@@ -129,16 +129,6 @@ For the bundled data, the saved evaluation reports approximately:
 
 Alternatively, run `streamlit run app.py` before training and click **Download data and train model** in the app.
 
-## Deploy the app on Streamlit Community Cloud
-
-1. Sign in to [Streamlit Community Cloud](https://share.streamlit.io/) with a GitHub account that has admin access to the repository.
-2. Choose **Create app** and select the repository and `main` branch.
-3. Set **Main file path** to `app.py`.
-4. Deploy. Streamlit installs packages from `requirements.txt`.
-5. If the app says the models are not trained, click **Download data and train model**.
-
-The project also contains an Azure ML training job, but this deployment step hosts the Streamlit app separately. Streamlit Community Cloud app permissions follow the repository's visibility; see the [Streamlit deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy).
-
 ## Presenter walkthrough
 
 1. Open the live app and choose **Coursework marks only**.
